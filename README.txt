@@ -12,4 +12,3 @@ Adjust the array_sizes list within test_sort_performance.py to hold all intended
 Run test_sort_performance.py and wait for visualization to appear.
 
 > python3 test_sort_performance.py
-
